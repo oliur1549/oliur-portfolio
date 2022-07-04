@@ -54,10 +54,10 @@ h2 {
 .dream-big {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right 0 bottom 0;
+    background-position: right 0 bottom 90px;
 }
 
-.baby-paragraph {
+.baby-paragraph{
     padding-right: 100px;
 }
 
